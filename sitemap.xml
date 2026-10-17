@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Troque SEU-DOMINIO quando o domínio estiver definido -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://SEU-DOMINIO.com.br/</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+  <url>
+    <loc>https://SEU-DOMINIO.com.br/residencial.html</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+  <url>
+    <loc>https://SEU-DOMINIO.com.br/empresas.html</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+  <url>
+    <loc>https://SEU-DOMINIO.com.br/eventos.html</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+  <url>
+    <loc>https://SEU-DOMINIO.com.br/atendimento.html</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+</urlset>

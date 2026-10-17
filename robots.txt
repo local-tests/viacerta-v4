@@ -1,0 +1,29 @@
+# Via Certa Internet
+# Todos os buscadores e assistentes de IA podem ler o site.
+User-agent: *
+Allow: /
+
+# Assistentes de IA (GEO): liberados explicitamente
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Troque SEU-DOMINIO quando o domínio estiver definido
+Sitemap: https://SEU-DOMINIO.com.br/sitemap.xml
